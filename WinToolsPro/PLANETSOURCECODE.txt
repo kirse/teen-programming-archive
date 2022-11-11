@@ -1,0 +1,6 @@
+Name: Window Tools Professional (Ultra-API spy)
+Description:
+This is an Ultra API Spy (lots o' features).  Some of the features include hWnd Scanner, Code Generator, Window Finder, and Hidden Window Manager - allows you to hide multiple windows [and get them back!]  There is a Help.doc included to help you use it (if you need help).  I'm sure you'll find this useful for your own VB (and even some C++!) programming (especially you AOL programmers).  Please make sure to VOTE if you like it!
+
+Screenshot: C:\Programming\VB\WinToolsPro\screenshot.gif
+ZIP: C:\DITTO\WinToolsPro.zip

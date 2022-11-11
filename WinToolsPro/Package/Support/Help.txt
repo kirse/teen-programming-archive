@@ -1,0 +1,118 @@
+Window Tools Professional Edition
+by Eric Kirse
+http://www.kipx.net
+
+Program Use Agreement
+By using this program, your are agreeing to the following.  If you do
+not, delete this program (Window Tools) from your computer immediately.
+
+This program is created for spying on Windows operating system windows!
+DO NOT USE IT FOR ILLEGAL PURPOSES!!!
+I, Eric Kirse, and kirsEdesign Software take no responsibility for the 
+consequences that may come from using this program.  Consequences
+include and are not limited to Software Failure, Hardware Failure, Arrest etc.
+
+Window Tools is copyright © Eric Kirse, 2001 kirsEdesign Software.
+kirsEdesign is wholly owned and operated by Eric Kirse.
+
+Added Features to Window Tools Pro
+Advanced Window
+	- Generate code for programs.  Both VB and C++!!!
+	- Search for windows with a certain class or text
+hWnd Scan
+	- Brute Force Scan a whole range of Window Handles
+	- On my AMD K6-2 550, a scan of 10000 windows took a mere
+	4.73 seconds!!!
+More Functionality
+	- The Hidden Windows section allows you to get the info again about
+	a window you have hidden
+Unmask Passwords
+	- You can now unmask any passwords hidden by any type of character!
+Bugs Fixed
+	- Fixed errors when reporting parent data after program execution
+
+Help
+1. Using Window Tools
+	a. Window Details
+	The Window Details frame gives you all the information about a
+	specific window.  This information is very useful if you would like
+	to create a program to manipulate a specific windows (Aol Proggers).
+	Click one of the blue circles next to a window detail to paste it to The
+	Box.
+	b. The Box
+	The Box is the text-box right under your window details frame.  When
+	you click one of the blue circles in the Window Details frame, it sends
+	that detail (hWnd, class, etc.) to The Box so you can copy or view all
+	of it.
+	c. Set Window Text / Parent Text
+	This feature enables you to change the text of a window by typing the
+	new desired text in the box to the right of this button and clicking the 
+	button.
+	d. Click, Drag, then Release button
+	This button is the main button of the program, so if you're stupid and
+	"kill" it, close the program and open it up again.  Anyhow, click this
+	button and keep holding the mouse.  Move your mouse to the desired
+	window and let go.  The details of that window will then appear in the
+	Window Details frame.
+	e. Hide / Show Window - Hide / Show Parent
+	In Window Tools, you can Hide and Show windows and their parents.
+	Simply click the appropriate button.  Note that Window Tools will only
+	manipulate the window specified in the Window Details Frame.  If you
+	hide more than one window, simply open up the Hidden list (by clicking
+	the checkbox) and double-click the window you want to show again.
+	f. Kill Window / Parent
+	This option enables you to kill (close) a window entirely.  Note that once
+	you kill a window, you cannot get it back unless you restart the application.
+	g. Keep On Top
+	This allows you to keep Window Tools on top while you use it.  You will
+	find this feature very useful.  Used in conjunction with Auto Mode, this
+	is useful for getting details of Start Bar menus, AOL ComboBoxes etc.
+	h. Auto Mode
+	Auto Mode enables you to simply move you mouse over a window and get
+	the details.  It does the same function as the Click, Drag, then Release button 
+	except you only need to move your mouse.  Auto Mode is useful for finding
+	windows, which you can then "lock in" with the Click, Drag, and Release
+	button.
+	i. Hidden List
+	The hidden list is a list of all the windows you have hidden using Window
+	Tools.  It enables you to restore multiple windows you have hidden and
+	also kill hidden windows you cannot access.
+	  THIS IS NOT A LIST OF ALL THE HIDDEN WINDOWS RUNNING!!
+	j. Kill Prompt
+	If you accidently press buttons, or just need a warning, this option will
+	make sure to warn you before you kill (close) a window.
+	k. Website / Help
+	Takes you to my website, and provides you with a location to the help
+	file (your here now).
+2. New Features Help
+	a. Advanced Options
+		A. Generate Code
+		Use this option to generate code for either Visual Basic or C++
+		designed to Find the Window specified.
+		B. Window Scanner
+		Scan a range of window handles for windows that match you search
+		criteria.  For example, I may want to find all the AOL textboxes
+		with class name _AOL_Edit.  Simply type in the search string,
+		_AOL_Edit, type up to how many window handles to scan, and press
+		Begin Scan.  Its that easy!
+	b. hWnd Scan
+	Use this feature to scan all windows within a certain range of window handles.
+	It can be useful to find hidden windows that may be running.  Double-Click any
+	item in the list to show its properties in the main window
+	c. Unmask Passwords
+	This option will enable you to automatically umask any passwords with any
+	password character.  Whenever WinTools finds a password box, it simply
+	unmasks the passwords.  This option is only available in Auto Mode.
+	d. Tips
+		A. Normally double-clicking or clicking on any list will send the
+		properties of that window to the main screen.
+		B. Using Auto Mode in conjunction with Keep on Top enables you
+		to get information about items in ComboBoxes, Menus etc.  Try it
+		out, you'll be amazed.
+
+Out
+Well, thats all for now!  Since you have purchased Window Tools Professional, that
+entitles you to help on demand.  Send an email out to admin@kipx.net and I will
+reply as soon as possible (next day usually).
+~Eric
+http://www.kipx.net

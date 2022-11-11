@@ -1,0 +1,98 @@
+[Root]
+Most Recent Package=WinToolsPro
+
+
+[Package|WinToolsPro|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Visual Basic Programs\WinToolsPro\Package
+
+[Package|WinToolsPro|Configure DAO ISAMs]
+Applicable=No
+
+[Package|WinToolsPro|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|WinToolsPro|Files Found]
+
+[Package|WinToolsPro|Files Released]
+
+[Package|WinToolsPro|Missing Dependency Information]
+
+[Package|WinToolsPro|Out-of-Date Dependency Information]
+
+[Package|WinToolsPro|Files Added]
+C:\Visual Basic Programs\WinToolsPro\Help.doc=
+C:\Visual Basic Programs\WinToolsPro\Help.txt=
+
+[Package|WinToolsPro|Files Removed]
+
+[Package|WinToolsPro|Files In Project]
+C:\Visual Basic Programs\WinToolsPro\WinToolsPro.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Visual Basic Programs\WinToolsPro\Help.doc=Yes
+C:\Visual Basic Programs\WinToolsPro\Help.txt=Yes
+
+[Package|WinToolsPro|Configure Registry Files]
+Applicable=No
+
+[Package|WinToolsPro|Configure Remote Servers]
+Applicable=No
+
+[Package|WinToolsPro|Install Locations]
+C:\Visual Basic Programs\WinToolsPro\WinToolsPro.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Visual Basic Programs\WinToolsPro\Help.doc=$(AppPath)
+C:\Visual Basic Programs\WinToolsPro\Help.txt=$(AppPath)
+
+[Package|WinToolsPro|Configure Shared Files]
+Applicable=Yes
+C:\Visual Basic Programs\WinToolsPro\WinToolsPro.exe=No
+C:\Visual Basic Programs\WinToolsPro\Help.doc=No
+C:\Visual Basic Programs\WinToolsPro\Help.txt=No
+
+[Package|WinToolsPro|Distribution]
+Type=single
+Size=
+Title=Window Tools Professional Edition
+
+[Package|WinToolsPro|IconGroups]
+Group0=Window Tools Professional Edition
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|WinToolsPro|Window Tools Professional Edition]
+Icon1=WinToolsPro.exe
+Title1=Window Tools Professional Edition
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|WinToolsPro|Package]
+PackageFolder=C:\Visual Basic Programs\WinToolsPro\Package
+ProjectFolder=C:\Visual Basic Programs\WinToolsPro
+ServerSideCab=
+File1=C:\Visual Basic Programs\WinToolsPro\Package\setup.exe
+File2=C:\Visual Basic Programs\WinToolsPro\Package\Setup.Lst
+File3=C:\Visual Basic Programs\WinToolsPro\Package\WinToolsPro.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
