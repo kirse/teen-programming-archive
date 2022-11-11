@@ -1,0 +1,133 @@
+object AboutForm: TAboutForm
+  Left = 250
+  Top = 181
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'About Notepad'
+  ClientHeight = 273
+  ClientWidth = 369
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  KeyPreview = True
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object NotepadIcon: TImage
+    Left = 20
+    Top = 16
+    Width = 32
+    Height = 32
+    AutoSize = True
+    Picture.Data = {
+      055449636F6E0000010001002020040000000000E80200001600000028000000
+      2000000040000000010004000000000000020000000000000000000000000000
+      0000000000000000000080000080000000808000800000008000800080800000
+      C0C0C000808080000000FF0000FF000000FFFF00FF000000FF00FF00FFFF0000
+      FFFFFF0000000000000000000000000000000000000877777777777777777777
+      70700000008FFFFFFFFFFFFFFFFFFFFFF7070000008FFFFFFFFFFFFFFFFFFFFF
+      F7070000008FF000000FFFFFFFFFFFFFF7070000008FFFFFFFFFFFFFFFFFFFFF
+      F7070000008FF000000FFFFFFFFFFFFFF7070000008FFFFFFFFFFFFFFFFFFFFF
+      F7070000008FFFFFFFFFFFFFFFFFFFFFF7070000008FF000000000000000000F
+      F7070000008FFFFFFFFFFFFFFFFFFFFFF7070000008FF000000000000000000F
+      F7070000008FFFFFFFFFFFFFFFFFFFFFF7070000008FF000000000000000000F
+      F7070000008FFFFFFFFFFFFFFFFFFFFFF7070000008FF000000000000000000F
+      F7070000008FFFFFFFFFFFFFFFFFFFFFF7070000008FFFFFFFFFFFFFFFFFFFFF
+      F7070000008FF000000FFFFFFFFFFFFFF7070000008FFFFFFFFFFFFFFFFFFFFF
+      F7070000008FFFFFFFFFFFFFFFFFFFFFF7070000008FFFFFFFFFFFFFFFFFFFFF
+      F7070000008FF000000FFFFFFFFFFFFFF7070000008FFFFFFFFFFFFFFFFFFFFF
+      F7070000008FF000000FFFFFFF0F000FF7070000008FFFFFFFFFFFFFFFFFFFFF
+      F7070000008FFFFFFFFFFFFFFFFFFFFFF7070000008FFFFFFFFFFFFFFFFFFFFF
+      F7070000008F0FF0FF0FF0FF0FF0FF0FF8070000008F0FF0FF0FF0FF0FF0FF0F
+      F80700000008F88F88F88F88F88F88F88F800000000000000000000000000000
+      00000000F000001FE000000FC0000007C0000007C0000007C0000007C0000007
+      C0000007C0000007C0000007C0000007C0000007C0000007C0000007C0000007
+      C0000007C0000007C0000007C0000007C0000007C0000007C0000007C0000007
+      C0000007C0000007C0000007C0000007C0000007C0000007C0000007E000000F
+      F24924BF}
+  end
+  object Label1: TLabel
+    Left = 96
+    Top = 20
+    Width = 104
+    Height = 13
+    Caption = 'Microsoft (R) Notepad'
+  end
+  object Label2: TLabel
+    Left = 96
+    Top = 40
+    Width = 191
+    Height = 13
+    Caption = 'Version 4.0 (Build 1381: Service Pack 6)'
+  end
+  object Label3: TLabel
+    Left = 96
+    Top = 60
+    Width = 188
+    Height = 13
+    Caption = 'Copyright (C) 1981-1996 Microsoft Corp.'
+  end
+  object Label4: TLabel
+    Left = 96
+    Top = 116
+    Width = 126
+    Height = 13
+    Caption = 'This product is licensed to:'
+  end
+  object Label5: TLabel
+    Left = 96
+    Top = 136
+    Width = 47
+    Height = 13
+    Caption = 'RM20201'
+  end
+  object Label6: TLabel
+    Left = 96
+    Top = 156
+    Width = 33
+    Height = 13
+    Caption = 'WASD'
+  end
+  object Label7: TLabel
+    Left = 96
+    Top = 200
+    Width = 163
+    Height = 13
+    Caption = 'Memory Available to Windows NT:'
+  end
+  object Label8: TLabel
+    Left = 308
+    Top = 200
+    Width = 50
+    Height = 13
+    Caption = '64,952 KB'
+  end
+  object lblExtra: TLabel
+    Left = 0
+    Top = 264
+    Width = 9
+    Height = 9
+    AutoSize = False
+    OnDblClick = lblExtraDblClick
+  end
+  object Panel1: TPanel
+    Left = 92
+    Top = 188
+    Width = 265
+    Height = 3
+    TabOrder = 0
+  end
+  object cmdOk: TButton
+    Left = 284
+    Top = 240
+    Width = 75
+    Height = 25
+    Caption = 'OK'
+    Default = True
+    TabOrder = 1
+    OnClick = cmdOkClick
+  end
+end

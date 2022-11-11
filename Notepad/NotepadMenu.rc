@@ -1,0 +1,43 @@
+1 MENU
+{
+POPUP "&File"
+{
+	MENUITEM "&New\tCtrl+N",  9
+	MENUITEM "&Open...\tCtrl+O",  10
+	MENUITEM "&Save\tCtrl+S",  1
+	MENUITEM "Save &As...",  2
+	MENUITEM SEPARATOR
+	MENUITEM "Page Set&up...",  32
+	MENUITEM "&Print...\tCtrl+P",  14
+	MENUITEM SEPARATOR
+	MENUITEM "E&xit",  28
+}
+POPUP "&Edit"
+{
+	MENUITEM "&Undo\tCtrl+Z",  25
+	MENUITEM SEPARATOR
+	MENUITEM "Cu&t\tCtrl+X",  768,  GRAYED
+	MENUITEM "&Copy\tCtrl+C",  769,  GRAYED
+	MENUITEM "&Paste\tCtrl+V",  770,  GRAYED
+	MENUITEM "De&lete\tDel",  771,  GRAYED
+	MENUITEM SEPARATOR
+	MENUITEM "&Find...\tCtrl+F",  3
+	MENUITEM "Find &Next\tF3",  8
+	MENUITEM "&Replace...\tCtrl+H",  40
+	MENUITEM "&Go To...\tCtrl+G",  41
+	MENUITEM SEPARATOR
+	MENUITEM "Select &All\tCtrl+A",  7
+	MENUITEM "Time/&Date\tF5",  12
+}
+POPUP "F&ormat"
+{
+	MENUITEM "&Word Wrap",  27
+	MENUITEM "&Font...",  37
+}
+POPUP "&Help"
+{
+	MENUITEM "&Help Topics",  5
+	MENUITEM SEPARATOR
+	MENUITEM "&About Notepad",  11
+}
+}
