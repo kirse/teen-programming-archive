@@ -1,0 +1,131 @@
+<html>
+<head>
+<title>interkinetix.com - high-speed hosting at insanely cheap prices</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css"href="/includes/settings.css" />
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#CCCCCC" text="#000000" onLoad="MM_preloadImages('/images/isbutton_on.gif','/images/scbutton_on.gif','/images/abbutton_on.gif','/images/ctbutton_on.gif')">
+<center>
+  <table width="555" border="0" cellspacing="0" cellpadding="0" height="426">
+    <tr>
+      <td width="544" height="406" bgcolor="#CCCCCC" align="left" valign="top">
+        <table width="552" border="0" cellspacing="0" cellpadding="0" height="515">
+          <tr> 
+            <td width="1" bgcolor="#000000" align="left" valign="top" height="503"></td>
+            <td height="503" align="left" valign="top" bgcolor="#FFFFFF"> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td align="left" valign="top"><a href="/index.shtml"><img src="/images/titlefinal.gif" width="550" height="65" border="0"></a></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td height="1" align="left" valign="top" bgcolor="#000000"></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td bgcolor="#666666" width="75%"><a href="/services.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('is','','/images/isbutton_on.gif',1)"><img name="is" border="0" src="/images/isbutton.gif" width="100" height="20"></a><a href="/support.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sc','','/images/scbutton_on.gif',1)"><img name="sc" border="0" src="/images/scbutton.gif" width="100" height="20"></a><a href="/aboutus.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ab','','/images/abbutton_on.gif',1)"><img name="ab" border="0" src="/images/abbutton.gif" width="100" height="20"></a><a href="/contact.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ct','','/images/ctbutton_on.gif',1)"><img name="ct" border="0" src="/images/ctbutton.gif" width="100" height="20"></a></td>
+                  <td bgcolor="#666666" width="25%" align="center" valign="middle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CCCCCC"> 
+                    <!--#exec cgi="/cgi-bin/clockwork.cgi"-->
+                    </font></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td bgcolor="#000000" height="1" align="left" valign="top"></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+                <tr bgcolor="#FFFFFF"> 
+                  <td height="5" align="left" valign="top" bgcolor="#FFFFFF"></td>
+                </tr>
+                <tr> 
+                  <td width="550" align="left" valign="top" bgcolor="#FFFFFF" height="548"><img src="/images/aboutikx.gif" width="250" height="20"> 
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" height="361">
+                      <tr> 
+                        <td align="left" valign="top" height="330" bgcolor="#FFFFFF" width="12">&nbsp;</td>
+                        <td align="left" valign="top" height="330" bgcolor="#FFFFFF" width="525"><font face="Arial, Helvetica, sans-serif" size="2">Interkinetix 
+                          Internet Services isn't just your usual hosting solution 
+                          provider. We aim to be the only hosting provider you'll 
+                          ever need. <br>
+                          <b><br>
+                          Dedication to Service</b><br>
+                          Our high quality services are combined with very competitive 
+                          prices. We want to ensure every client will find Interkinetix 
+                          the best hosting solution on the web. We have skilled 
+                          technicians constantly monitoring our servers in order 
+                          to ensure your business will remain connected 24/7/365.<br>
+                          <br>
+                          <b>Dedication to Technology</b><br>
+                          Interkinetix Internet Services is a company that thrives 
+                          on technology. Our leading edge components are what 
+                          helps keep both you and our company on top. Interkinetix 
+                          servers run using only top quality components and load 
+                          tested software.<br>
+                          <br>
+                          <b>Price-Lock Guarantee<br>
+                          </b>In the rare case we may need to raise our monthly 
+                          price agreements, Interkinetix guarantees that for the 
+                          life of your contract, we will not raise your price. 
+                          <br>
+                          <br>
+                          </font>
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0" height="64">
+                            <tr> 
+                              <td valign="middle" align="center" height="72"><img src="/images/partner_amd.gif" width="95" height="71"></td>
+                              <td valign="middle" align="center" height="72"><img src="/images/partner_suse.gif" width="60" height="43"></td>
+                              <td valign="middle" align="center" height="72"><img src="/images/partner_apache.gif" width="100" height="37"></td>
+                            </tr>
+                          </table>
+                          <font face="Arial, Helvetica, sans-serif" size="2"> 
+                          </font></td>
+                        <td align="left" valign="top" height="330" bgcolor="#FFFFFF" width="12">&nbsp;</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              
+            </td>
+            <td bgcolor="#000000" align="left" valign="top" width="1" height="503"></td>
+          </tr>
+        </table>
+      </td>
+      <td width="3" height="406" bgcolor="#CCCCCC" background="/images/fader.gif" align="left" valign="top"></td>
+    </tr>
+    <tr>
+      <td width="544" height="3" bgcolor="#CCCCCC" background="/images/faderhoriz.gif"></td>
+      <td width="3" height="3" bgcolor="#CCCCCC" align="left" valign="top"><img src="/images/fadercorner.gif" width="3" height="3"></td>
+    </tr>
+  </table>
+</center>
+</body>
+</html>

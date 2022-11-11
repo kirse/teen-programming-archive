@@ -1,0 +1,8 @@
+A:link {text-decoration: none; color: #003366;} 
+A:visited {text-decoration: none; color: #003366;} 
+A:hover {text-decoration: none; color: #0066FF; font-style: normal;}
+.topnav:link {text-decoration: none; color: #FFCC00;} 
+.topnav:visited {text-decoration: none; color: #FFCC00;} 
+.topnav:hover {text-decoration: none; color: #FFFFFF; font-style: normal;}
+.bordercolor {background-color: #000000;} 
+.barbg {background-color: #FFFFFF;}

@@ -1,0 +1,6 @@
+<font face="Arial, Helvetica, sans-serif" size="2">Interkinetix 
+                          Internet Services are designed to be flexible, fast, 
+                          and free (well, almost). We currently offer 4 virtual 
+                          hosting plans to meet your needs. If one of these plans 
+                          don't fit your requirements, feel free to send us an 
+                          email, and we'll give you an ideal quote for your specifications.</font>

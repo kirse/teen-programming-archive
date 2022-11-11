@@ -1,0 +1,331 @@
+<html>
+<head>
+<title>interkinetix.com - high-speed hosting at insanely cheap prices</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css"href="/includes/settings.css" />
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#CCCCCC" text="#000000" onLoad="MM_preloadImages('/images/isbutton_on.gif','/images/scbutton_on.gif','/images/abbutton_on.gif','/images/ctbutton_on.gif','/images/simpleon.gif','/images/intermediateon.gif','/images/premiumon.gif','/images/extremeon.gif')">
+<center>
+  <table width="555" border="0" cellspacing="0" cellpadding="0" height="426">
+    <tr>
+      <td width="544" height="406" bgcolor="#CCCCCC" align="left" valign="top">
+        <table width="552" border="0" cellspacing="0" cellpadding="0" height="515">
+          <tr> 
+            <td width="1" bgcolor="#000000" align="left" valign="top" height="503"></td>
+            <td height="503" align="left" valign="top" bgcolor="#FFFFFF"> 
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td align="left" valign="top"><a href="/index.shtml"><img src="/images/titlefinal.gif" width="550" height="65" border="0"></a></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td height="1" align="left" valign="top" bgcolor="#000000"></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td bgcolor="#666666" width="75%"><a href="/services.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('is','','/images/isbutton_on.gif',1)"><img name="is" border="0" src="/images/isbutton.gif" width="100" height="20"></a><a href="/support.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sc','','/images/scbutton_on.gif',1)"><img name="sc" border="0" src="/images/scbutton.gif" width="100" height="20"></a><a href="/aboutus.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ab','','/images/abbutton_on.gif',1)"><img name="ab" border="0" src="/images/abbutton.gif" width="100" height="20"></a><a href="/contact.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ct','','/images/ctbutton_on.gif',1)"><img name="ct" border="0" src="/images/ctbutton.gif" width="100" height="20"></a></td>
+                  <td bgcolor="#666666" width="25%" align="center" valign="middle"><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CCCCCC"> 
+                    <!--#exec cgi="/cgi-bin/clockwork.cgi"-->
+                    </font></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr> 
+                  <td bgcolor="#000000" height="1" align="left" valign="top"></td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" height="535">
+                <tr bgcolor="#FFFFFF"> 
+                  <td height="5" align="left" valign="top" bgcolor="#FFFFFF"></td>
+                </tr>
+                <tr> 
+                  <td width="400" align="left" valign="top" bgcolor="#FFFFFF" height="548"> 
+                    <img src="/images/webhostingpackages.gif" width="250" height="20"> 
+                    <table width="550" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td width="20" bgcolor="#FFFFFF" align="left" valign="top" rowspan="2">&nbsp;</td>
+                        <td width="145" bgcolor="#FFFFFF" align="left" valign="top" height="20"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('simple','','/images/simpleon.gif',1)"><img name="simple" border="0" src="/images/simple.gif" width="80" height="20"></a></td>
+                        <td width="385" bgcolor="#FFFFFF" align="left" valign="top" rowspan="2"> 
+                          <table width="365" border="0" cellspacing="0" cellpadding="0" height="98" bgcolor="#FFFFFF">
+                            <tr bgcolor="#000000"> 
+                              <td align="left" valign="top" height="1" colspan="3"></td>
+                            </tr>
+                            <tr> 
+                              <td align="left" valign="top" bgcolor="#000000" height="191" width="1"></td>
+                              <td align="left" valign="top" bgcolor="#CCCCCC" height="191" width="363">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="5" height="100%">
+                                  <tr>
+                                    <td bgcolor="#CCCCCC" align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><b>http://www.yourname.com</b><br>
+                                      - 50 mb Web/FTP Storage Space<br>
+                                      - Unlimited Bandwidth*<br>
+                                      - 3 V-domains (http://vdomain.yourname.com)<br>
+                                      - 5 Email Accounts<br>
+                                      - 5 FTP Accounts<br>
+                                      - CGI Support<br>
+                                      - PHP3/PHP4 Support<br>
+                                      - SSI (Server-Side Includes) Support<br>
+                                      - Sendmail <br>
+                                      - $5 One-Time Setup Fee<br>
+                                      - Minimum 1 Month Contract<br>
+                                      - Ideal for: College Students, Weblogs, 
+                                      Small Personal Homepages, Family Websites<br>
+                                      </font></td>
+                                  </tr>
+                                </table>
+                              </td>
+                              <td align="left" valign="top" bgcolor="#000000" height="191" width="1"></td>
+                            </tr>
+                            <tr bgcolor="#000000"> 
+                              <td align="left" valign="top" colspan="3" height="1"></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="145" bgcolor="#FFFFFF" align="left" valign="top" height="*"> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="10" height="100%">
+                            <tr>
+                              <td height="120" align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" color="#FF9900"><b><font size="3" color="#FF0000" face="Arial, Helvetica, sans-serif">$3.50 
+                                / month<br>
+                                <font color="#000066" size="2">Low Cost, High 
+                                Quality!<br>
+                                </font></font></b><font size="3" color="#FF0000" face="Arial, Helvetica, sans-serif"><font color="#000066" size="2">[ 
+                                <a href="/services_simple.shtml">comparison chart</a> 
+                                ]</font></font></font></td>
+                            </tr>
+                          </table>
+                          <p>&nbsp;</p>
+                        </td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                      <tr> 
+                        <td height="5" align="left" valign="top" bgcolor="#FFFFFF"></td>
+                      </tr>
+                    </table>
+                    <table width="550" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td width="20" bgcolor="#FFFFFF" align="left" valign="top" rowspan="2">&nbsp;</td>
+                        <td width="145" bgcolor="#FFFFFF" align="left" valign="top" height="20"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('intermediate','','/images/intermediateon.gif',1)"><img name="intermediate" border="0" src="/images/intermediate.gif" width="135" height="20"></a></td>
+                        <td width="385" bgcolor="#FFFFFF" align="left" valign="top" rowspan="2"> 
+                          <table width="365" border="0" cellspacing="0" cellpadding="0" height="98" bgcolor="#FFFFFF">
+                            <tr bgcolor="#000000"> 
+                              <td align="left" valign="top" height="1" colspan="3"></td>
+                            </tr>
+                            <tr> 
+                              <td align="left" valign="top" bgcolor="#000000" height="191" width="1"></td>
+                              <td align="left" valign="top" bgcolor="#CCCCCC" height="191" width="363"><table width="100%" border="0" cellspacing="0" cellpadding="5" height="100%">
+                                  <tr>
+                                    <td bgcolor="#CCCCCC" align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><b>http://www.yourname.com</b><br>
+                                      - 500 mb Web/FTP Storage Space<br>
+                                      - Unlimited Bandwidth*<br>
+                                      - 10 V-domains (http://vdomain.yourname.com) 
+                                      <br>
+                                      - 30 Email Accounts<br>
+                                      - 30 FTP Accounts<br>
+                                      - CGI Support<br>
+                                      - PHP3/PHP4 Support<br>
+                                      - SSI (Server-Side Includes) Support<br>
+                                      - Sendmail <br>
+                                      - $5 One-Time Setup Fee<br>
+                                      - Minimum 1 Month Contract<br>
+                                      - Ideal for: Individual Businesses, Medium/Large 
+                                      Homepages, Small News Websites<br>
+                                      </font></td>
+                                  </tr>
+                                </table></td>
+                              <td align="left" valign="top" bgcolor="#000000" height="191" width="1"></td>
+                            </tr>
+                            <tr bgcolor="#000000"> 
+                              <td align="left" valign="top" colspan="3" height="1"></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="145" bgcolor="#FFFFFF" align="left" valign="top" height="*">
+                          <table width="100%" border="0" cellspacing="0" cellpadding="10" height="100%">
+                            <tr> 
+                              <td height="120" align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" color="#FF9900"><b><font size="3" color="#FF0000" face="Arial, Helvetica, sans-serif">$9.00 
+                                / month<br>
+                                <font size="2" color="#009900">Best Seller!<br>
+                                </font></font></b><font size="3" color="#FF0000" face="Arial, Helvetica, sans-serif"><font size="2" color="#000066">[ 
+                                <a href="/services_inter.shtml">comparison chart</a> 
+                                ]</font></font></font></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                      <tr> 
+                        <td height="5" align="left" valign="top" bgcolor="#FFFFFF"></td>
+                      </tr>
+                    </table>
+                    <table width="550" border="0" cellspacing="0" cellpadding="0" height="172">
+                      <tr> 
+                        <td width="20" bgcolor="#FFFFFF" align="left" valign="top" height="188" rowspan="2">&nbsp;</td>
+                        <td width="145" bgcolor="#FFFFFF" align="left" valign="top" height="20"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('premium','','/images/premiumon.gif',1)"><img name="premium" border="0" src="/images/premium.gif" width="100" height="20"></a></td>
+                        <td width="385" bgcolor="#FFFFFF" align="left" valign="top" height="188" rowspan="2"> 
+                          <table width="365" border="0" cellspacing="0" cellpadding="0" height="98" bgcolor="#FFFFFF">
+                            <tr bgcolor="#000000"> 
+                              <td align="left" valign="top" height="1" colspan="3"></td>
+                            </tr>
+                            <tr> 
+                              <td align="left" valign="top" bgcolor="#000000" height="191" width="1"></td>
+                              <td align="left" valign="top" bgcolor="#CCCCCC" height="191" width="363"><table width="100%" border="0" cellspacing="0" cellpadding="5" height="100%">
+                                  <tr>
+                                    <td bgcolor="#CCCCCC" align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><b>http://www.yourname.com</b><br>
+                                      - 1000 mb Web/FTP Storage Space<br>
+                                      - Unlimited Bandwidth*<br>
+                                      - 20 V-domains (http://vdomain.yourname.com) 
+                                      <br>
+                                      - 100 Email Accounts<br>
+                                      - 100 FTP Accounts<br>
+                                      - CGI Support<br>
+                                      - PHP3/PHP4 Support<br>
+                                      - SSI (Server-Side Includes) Support<br>
+                                      - Sendmail <br>
+                                      - $5 One-Time Setup Fee<br>
+                                      - Minimum 1 Month Contract<br>
+                                      - Ideal for: Small/Medium Businesses, Medium 
+                                      News Websites, Software Development Website<br>
+                                      </font></td>
+                                  </tr>
+                                </table></td>
+                              <td align="left" valign="top" bgcolor="#000000" height="191" width="1"></td>
+                            </tr>
+                            <tr bgcolor="#000000"> 
+                              <td align="left" valign="top" colspan="3" height="1"></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td width="145" bgcolor="#FFFFFF" align="left" valign="top" height="*">
+                          <table width="100%" border="0" cellspacing="0" cellpadding="10" height="100%">
+                            <tr> 
+                              <td height="120" align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" color="#FF9900"><b><font size="3" color="#FF0000" face="Arial, Helvetica, sans-serif">$15.00 
+                                / month<br>
+                                <font color="#000066" size="2">Perfect for Small 
+                                Businesses!<br>
+                                </font></font></b><font size="3" color="#FF0000" face="Arial, Helvetica, sans-serif"><font color="#000066" size="2">[ 
+                                <a href="/services_premium.shtml">comparison chart</a> 
+                                ]</font></font></font></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" height="5">
+                <tr> 
+                  <td bgcolor="#FFFFFF" height="1" align="left" valign="top"></td>
+                </tr>
+              </table>
+              <table width="550" border="0" cellspacing="0" cellpadding="0" height="172">
+                <tr> 
+                  <td width="20" bgcolor="#FFFFFF" align="left" valign="top" height="188" rowspan="2">&nbsp;</td>
+                  <td width="145" bgcolor="#FFFFFF" align="left" valign="top" height="20"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('extreme','','/images/extremeon.gif',1)"><img name="extreme" border="0" src="/images/extreme.gif" width="70" height="20"></a></td>
+                  <td width="385" bgcolor="#FFFFFF" align="left" valign="top" height="188" rowspan="2"> 
+                    <table width="365" border="0" cellspacing="0" cellpadding="0" height="98" bgcolor="#FFFFFF">
+                      <tr bgcolor="#000000"> 
+                        <td align="left" valign="top" height="1" colspan="3"></td>
+                      </tr>
+                      <tr> 
+                        <td align="left" valign="top" bgcolor="#000000" height="191" width="1"></td>
+                        <td align="left" valign="top" bgcolor="#CCCCCC" height="191" width="363"><table width="100%" border="0" cellspacing="0" cellpadding="5" height="100%">
+                                  <tr>
+                                    
+                              <td bgcolor="#CCCCCC" align="left" valign="top"><font face="Arial, Helvetica, sans-serif" size="2"><b>http://www.yourname.com</b><br>
+                                - 3000 mb Web/FTP Storage Space<br>
+                                - Unlimited Bandwidth*<br>
+                                - Unlimited V-domains (http://vdomain.yourname.com) 
+                                <br>
+                                - Unlimited Email Accounts<br>
+                                - Unlimited FTP Accounts<br>
+                                - CGI Support<br>
+                                - PHP3/PHP4 Support<br>
+                                - SSI (Server-Side Includes) Support<br>
+                                - Sendmail <br>
+                                - $5 One-Time Setup Fee<br>
+                                - Minimum 1 Month Contract<br>
+                                - Ideal for: Large Businesses, International Entities, 
+                                Application Development and Deployment<br>
+                                </font></td>
+                                  </tr>
+                                </table></td>
+                        <td align="left" valign="top" bgcolor="#000000" height="191" width="1"></td>
+                      </tr>
+                      <tr bgcolor="#000000"> 
+                        <td align="left" valign="top" colspan="3" height="1"></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="145" bgcolor="#FFFFFF" align="left" valign="top" height="*">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="10" height="100%">
+                      <tr> 
+                        <td height="120" align="left" valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" color="#FF9900"><b><font size="3" color="#FF0000" face="Arial, Helvetica, sans-serif">$24.00 
+                          / month<br>
+                          <font color="#000066" size="2">No-limits hosting for 
+                          the no-limits individual!<br>
+                          </font></font></b><font size="3" color="#FF0000" face="Arial, Helvetica, sans-serif"><font color="#000066" size="2">[ 
+                          <a href="/services_extreme.shtml">comparison chart</a> 
+                          ]</font></font></font></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" height="5">
+                <tr> 
+                  <td bgcolor="#FFFFFF" height="1" align="left" valign="top"></td>
+                </tr>
+              </table>
+            </td>
+            <td bgcolor="#000000" align="left" valign="top" width="1" height="503"></td>
+          </tr>
+        </table>
+      </td>
+      <td width="3" height="406" bgcolor="#CCCCCC" background="/images/fader.gif" align="left" valign="top"></td>
+    </tr>
+    <tr>
+      <td width="544" height="3" bgcolor="#CCCCCC" background="/images/faderhoriz.gif"></td>
+      <td width="3" height="3" bgcolor="#CCCCCC" align="left" valign="top"><img src="/images/fadercorner.gif" width="3" height="3"></td>
+    </tr>
+  </table>
+</center>
+</body>
+</html>
